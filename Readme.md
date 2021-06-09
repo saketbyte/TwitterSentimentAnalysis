@@ -1,6 +1,7 @@
 # Twitter Sentiment Analysis
 
-The project is hosted here - 
+The project is deployed[here](https://xgboostsentiment.herokuapp.com/)
+Have fun checking it !
 
 About Dataset
 [Dataset link:](https://www.kaggle.com/arkhoshghalb/twitter-sentiment-analysis-hatred-speech)
