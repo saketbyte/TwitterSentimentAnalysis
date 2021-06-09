@@ -10,6 +10,3 @@ The dataset was quite imbalance with around 4000 negative labels out of 32000 la
 Model :Extreme Gradient Boosted on Tree.
 
 Use: To analyse the essential sentiment of a tweet or few lines.
-
-
-# TwitterSentimentAnalysis
