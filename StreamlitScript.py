@@ -73,8 +73,8 @@ def main():
         <h1> Samriddh's contact</h1>
         <h3>
         <a href= "https://www.linkedin.com/in/samriddh-singh-70621b18b/")>[LinekdIn]</href> <br>
-        <a href= "https://twitter.com/saketbyte)")>[Twitter]</href> <br>
-        <a href= "https://github.com/saketbyte")>[Github]</href> <br>
+        <a href= "https://twitter.com/saketbyte">[Twitter]</href> <br>
+        <a href= "https://github.com/saketbyte">[Github]</href> <br>
         </h3>
         """
         st.markdown(html2,unsafe_allow_html=True)
