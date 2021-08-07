@@ -1,6 +1,6 @@
 # Twitter Sentiment Analysis
 
-The project is deployed[here](https://xgboostsentiment.herokuapp.com/)
+The project is deployed [here](https://xgboostsentiment.herokuapp.com/)
 
 
 Have fun checking it !
@@ -13,3 +13,7 @@ The dataset was quite imbalance with around 4000 negative labels out of 32000 la
 Model :Extreme Gradient Boosted on Tree.
 
 Use: To analyse the essential sentiment of a tweet or few lines.
+
+# Sample (Since deployed model takes a bit to load.)
+
+![video](sample.mp4)
