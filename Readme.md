@@ -16,4 +16,4 @@ Use: To analyse the essential sentiment of a tweet or few lines.
 
 # Sample (Since deployed model takes a bit to load.)
 
-![video](sample.mp4)
+![sample](sample.gif)
